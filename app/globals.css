@@ -119,3 +119,17 @@
 .dark .group .nav-indicator.active {
   background-color: #e2e8f0;
 }
+
+/* scrollbar */
+::-webkit-scrollbar-thumb {
+  background: #00888f;
+  border-radius: 10px;
+  /* visibility: hidden; */
+}
+.dark ::-webkit-scrollbar-thumb {
+  background: #00888fab;
+}
+::-webkit-scrollbar {
+  width: 3px;
+  height: 0px;
+}
