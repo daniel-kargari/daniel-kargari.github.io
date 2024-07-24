@@ -41,7 +41,7 @@ export default function Home() {
         <div ref={auraRef} className="mouse-aura" />
         <div className="lg:flex lg:justify-between lg:gap-4">
           <Nav />
-          <main className="flex flex-col pt-6 lg:pt-24 lg:w-1/2 lg:py-24 gap-8 mt-[124px]">
+          <main className="flex flex-col pt-6 lg:pt-24 lg:w-1/2 lg:py-24 gap-8 ">
             <About />
             <ExpCard />
             <Skills />
