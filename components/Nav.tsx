@@ -3,6 +3,7 @@ import { Button } from "@/components/ui/button";
 import { Github, Linkedin, Mail } from "lucide-react";
 import { ModeToggle } from "./ui/toggle-mode";
 import useActiveSection from "@/hooks/useActiveSection";
+import Link from "next/link";
 
 type NavItem = {
   name: string;
