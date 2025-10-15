@@ -16,7 +16,7 @@ export default function About() {
           Highly experienced and proficient Frontend Developer with over
         </p>
         <p className=" text-primary dark:text-white inline">
-          <br className="hidden lg:block" /> 4 years{" "}
+          <br className="hidden lg:block" /> 5 years{" "}
         </p>
         <p className="text-start text-muted-foreground  inline">
           of success in creating PWAs. Committed to continuous learning,
